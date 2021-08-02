@@ -1,0 +1,12 @@
+{
+  "common": {
+    "Today": "Hoy",
+    "Tue": "Mar",
+    "Wed": "Mié",
+    "Thu": "Jue",
+    "Fri": "Vie",
+    "Sat": "Sab",
+    "Sun": "Dom",
+    "Mon": "Lun"
+  }
+}
